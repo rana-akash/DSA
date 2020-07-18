@@ -3,6 +3,7 @@ using System;
 using System.Runtime.InteropServices.WindowsRuntime;
 
 //Binary search tree -> All left nodes will be small and all right nodes will be large than the root.
+//
 // Binary tree -> only the immediate child node will be small(left) and large(right)
 namespace Trees
 {
